@@ -164,9 +164,8 @@ h4{
     justify-content: space-around;
 }
 .about-text h2{
-  position: relative;
   color: white;
-  font-size: 75px;
+  font-size: 200px;
   text-transform: capitalize;
   margin-bottom: 20px;
 }
