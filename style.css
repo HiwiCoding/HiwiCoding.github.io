@@ -54,6 +54,9 @@ nav{
     letter-spacing: 1px;
     cursor:pointer;
 }
+.text-info{
+        color:#009999;
+}
 span{
     color: rgb(0, 153, 153);
     font-size: 25px;
