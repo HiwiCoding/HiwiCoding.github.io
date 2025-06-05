@@ -104,7 +104,7 @@ h1{
     font-size: 30px;
 }
 span{
-    color:rgb(0, 153, 153) ;
+    color:rgb(0, 153, 153);
     font-size: 30px;
 }
 h3{
@@ -191,7 +191,7 @@ h4{
     margin-bottom: 45px;
 }
 button{
-    background-color: rgb(73, 120, 25);
+    background-color: black;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -202,7 +202,7 @@ button{
 }
 button:hover{
     background-color: transparent;
-    border: 2px solid rgb(160, 161, 47);
+    border: 2px solid rgb(0, 153, 153);
     cursor:pointer;
 }
 .service{
