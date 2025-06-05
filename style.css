@@ -103,7 +103,7 @@ h1{
     margin: 20px 0px 20px;
     font-size: 30px;
 }
-span{
+span.text-info{
     color:rgb(0, 153, 153);
     font-size: 30px;
 }
